@@ -1,0 +1,68 @@
+p {
+  margin: 0;
+  margin-top: 15px;
+  padding: 0;
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+}
+.infomation {
+  width: 60%;
+  margin: 0 15px;
+}
+.name {
+  width: 100%;
+  border-bottom: 2px solid #139388;
+  margin-bottom: 10px;
+}
+
+.tieu_de {
+  color: #139388;
+  display: block;
+  padding: 15px 0;
+  width: 100%;
+  border-bottom: 1px solid #139388;
+}
+
+h1 {
+  color: #139388;
+  font-size: 30px;
+  margin: 0;
+  margin-bottom:  4px;
+}
+
+h2 {
+  margin: 0 0;
+  padding: 0;
+  font-size: 26px;
+}
+
+.image {
+  display: flex;
+  flex: 1;
+  background-color: #139388;
+}
+.inner {
+  margin: 15px;
+  width: 100%;
+}
+.anh {
+  display: flex;
+  margin-bottom: 20px;
+}
+img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto;
+}
+
+.thong_tin {
+  color: white;
+}
